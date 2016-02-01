@@ -1,3 +1,4 @@
+# Getting_and_Cleaning_Data_Course_Project
 This repo is submitted for the Johns Hopkins Getting and Cleaning Data course project and explains how all of the work was executed in order to create a Tidy Dataset which was instructed.
 
 ##Data Source
