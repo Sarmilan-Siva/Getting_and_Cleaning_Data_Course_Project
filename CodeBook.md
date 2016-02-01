@@ -34,7 +34,7 @@ These signals were used to estimate variables of the feature vector for each pat
 
 
 ##Variables in the Tidy Dataset
-Variables were assigned with descriptive names as much as possible in this analysis
+Variables were assigned with descriptive names as much as possible in this analysis   
  [1] "Subject"                      
  [2] "Activity"                     
  [3] "timeBodyAccMeanInX"           
@@ -95,11 +95,17 @@ Variables were assigned with descriptive names as much as possible in this analy
 [58] "freqBodyAccStdDevInZ"         
 [59] "freqBodyAccJerkStdDevInX"     
 [60] "freqBodyAccJerkStdDevInY"     
-[61] "freqBodyAccJerkStdDevInZ"     
-[62] "freqBodyGyroStdDevInX"        
-[63] "freqBodyGyroStdDevInY"        
+[61] "freqBodyAccJerkStdDevInZ"      
+[62] "freqBodyGyroStdDevInX"         
+[63] "freqBodyGyroStdDevInY"         
 [64] "freqBodyGyroStdDevInZ"        
 [65] "freqBodyAccMagStdDev"         
+<<<<<<< HEAD
 [66] "freqBodyBodyAccJerkMagStdDev"  
 [67] "freqBodyBodyGyroMagStdDev"      
 [68] "freqBodyBodyGyroJerkMagStdDev"  
+=======
+[66] "freqBodyBodyAccJerkMagStdDev" 
+[67] "freqBodyBodyGyroMagStdDev"    
+[68] "freqBodyBodyGyroJerkMagStdDev"
+>>>>>>> 679bc15780aa572620e7269153f317f69b786766
