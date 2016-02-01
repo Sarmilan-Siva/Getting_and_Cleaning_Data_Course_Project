@@ -103,6 +103,6 @@ Variables were assigned with descriptive names as much as possible in this analy
 [66] "freqBodyBodyAccJerkMagStdDev"  
 [67] "freqBodyBodyGyroMagStdDev"      
 [68] "freqBodyBodyGyroJerkMagStdDev"  
-[66] "freqBodyBodyAccJerkMagStdDev" 
-[67] "freqBodyBodyGyroMagStdDev"    
+[66] "freqBodyBodyAccJerkMagStdDev"   
+[67] "freqBodyBodyGyroMagStdDev"     
 [68] "freqBodyBodyGyroJerkMagStdDev"
