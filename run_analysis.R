@@ -15,12 +15,12 @@ activities <- read.table("activity_labels.txt", sep = "", colClasses = "characte
 
 #reading the files under test set
 x_test <- read.table("test/X_test.txt", sep = "", header = FALSE) # dimension 2947*561
-y_test <- read.table("test/y_test.txt", sep = "", header = FALSE, stringsAsFactors = FALSE) #describe 5 types of activities, dim 2947*1
+y_test <- read.table("test/y_test.txt", sep = "", header = FALSE, stringsAsFactors = FALSE) #describe 6 types of activities, dim 2947*1
 sub_test <- read.table("test/subject_test.txt", sep = "")
 
 #reading the files under training set
 x_train <- read.table("train/X_train.txt", sep = "") # dimension 7352*561
-y_train <- read.table("train/y_train.txt", sep = "") #describe 5 types of activities, dim 7352*1
+y_train <- read.table("train/y_train.txt", sep = "") #describe 6 types of activities, dim 7352*1
 sub_train <- read.table("train/subject_train.txt", sep = "")
 
 #bind test and train sets of data
