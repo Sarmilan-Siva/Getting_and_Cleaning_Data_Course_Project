@@ -99,13 +99,10 @@ Variables were assigned with descriptive names as much as possible in this analy
 [62] "freqBodyGyroStdDevInX"         
 [63] "freqBodyGyroStdDevInY"         
 [64] "freqBodyGyroStdDevInZ"        
-[65] "freqBodyAccMagStdDev"         
-<<<<<<< HEAD
+[65] "freqBodyAccMagStdDev"     
 [66] "freqBodyBodyAccJerkMagStdDev"  
 [67] "freqBodyBodyGyroMagStdDev"      
 [68] "freqBodyBodyGyroJerkMagStdDev"  
-=======
 [66] "freqBodyBodyAccJerkMagStdDev" 
 [67] "freqBodyBodyGyroMagStdDev"    
 [68] "freqBodyBodyGyroJerkMagStdDev"
->>>>>>> 679bc15780aa572620e7269153f317f69b786766
