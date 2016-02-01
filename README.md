@@ -1,3 +1,4 @@
+#Readme - Getting and Cleaning Data Course Project 
 This repo is submitted for the course project of Johns Hopkin's Getting and Cleaning Data. The repo explains how all of the work was executed in order to create a Tidy Dataset which was instructed.
 
 ##Data Source

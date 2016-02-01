@@ -1,6 +1,14 @@
-setwd("D:/My Documents/Coursera/Data Science/Getting and Cleaning Data/Course_Project/getdata-projectfiles-UCI HAR Dataset/UCI HAR Dataset")
+#The following Codes are to create a Tidy Dataset from a complicated data source,
+#Human Activity Recognition Using Smartphones Data Set, downloaded from the UCI Machine Learning Repository
+#for the Johns Hopkins Getting and Cleaning Data course project.
 
-dir()
+#Please unzip the data folder and set the directory in "/getdata-projectfiles-UCI HAR Dataset/UCI HAR Dataset"
+#the Tidy Data will be saved in the same directory when you perform the analysis
+
+#setwd("D:/My Documents/Coursera/Data Science/Getting and Cleaning Data/Course_Project/getdata-projectfiles-UCI HAR Dataset/UCI HAR Dataset")
+#dir()
+
+#reading the datasets
 features <- read.table("features.txt", sep = "", header = FALSE) #561*2
 activities <- read.table("activity_labels.txt", sep = "", header = FALSE)
 
